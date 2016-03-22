@@ -1,0 +1,29 @@
+show log
+show cef platform oor location
+show cef resource hardware ingress location
+show memory summary location all
+show watchdog memory-state location all
+show processes memory detail
+show controllers np soft-errors all all
+show redundancy
+show l2vpn forwarding resource detail location
+show cef tables
+admin show platform
+show hw-module fpd location all
+show health gsp 
+show health sysdb
+show pfm location all
+show drops
+show asic-errors all location
+admin show reboot history location
+admin show environment all
+show lpts pifib hardware police location
+show l2vpn bridge-domain summary
+show prm server tcam summary all all all location
+admin show environment temperature
+admin show environment voltage
+admin show environment fans
+admin show environment table
+admin show environment leds
+admin show environment power-supply
+admin show environment trace
